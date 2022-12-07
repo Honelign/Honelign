@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honelign&label=Profile%20views&color=0e75b6&style=flat" alt="honelign" /> </p>
 
-- 🔭 I’m currently working on [Note App](https://github.com/Honelign/NoteApp-Flutter)
+- 🔭 I’m currently working as a flutter developer
 
 - 📫 How to reach me **honelignselamu@gmail.com**
 
