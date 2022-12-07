@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **honelignselamu@gmail.com**
 
-- ⚡ Fun fact **I might find me talking to my self**
+- ⚡ Fun fact **You might find me talking to my self**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
