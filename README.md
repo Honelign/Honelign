@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a flutter developer
 
-- 📫 How to reach me **honelignselamu@gmail.com**
-
 - ⚡ Fun fact **You might find me talking to my self**
 
 <h3 align="left">Connect with me:</h3>
